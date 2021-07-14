@@ -1,4 +1,4 @@
-# How to solve?
+# How to solve
 
 ![0](https://user-images.githubusercontent.com/71024092/125589664-7e517591-6334-45b4-b9c9-2c08ab2f8143.JPG)
 
