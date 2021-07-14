@@ -6,4 +6,6 @@
 
 ##### 1. The point is that you need to use 8byte integer data type
 
+![integer_data_type](https://user-images.githubusercontent.com/71024092/125590137-e708c9c4-a880-4aae-b224-38500152d082.JPG)
+
 #### The answer : http://www.pythonchallenge.com/pc/def/274877906944.html
